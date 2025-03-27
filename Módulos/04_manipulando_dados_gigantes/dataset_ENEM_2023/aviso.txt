@@ -1,0 +1,1 @@
+É necessário baixar o arquivo compactado no site do INEP (https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/microdados/enem) e descompactá-lo dentro dessa pasta 'dataset_ENEM_2023', pois os arquivos necessários para este módulo estão nesse dataset do INEP.
